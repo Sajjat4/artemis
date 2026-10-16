@@ -1,0 +1,6 @@
+{
+  "name": "Artemis",
+  "description": "Autonomous mobile agent platform for Android test automation, execution, and diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
